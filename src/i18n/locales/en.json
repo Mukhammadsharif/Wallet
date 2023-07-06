@@ -1,0 +1,14 @@
+{
+  "walletNotConnected": "Wallet not connected",
+  "walletConnected": "Wallet connected",
+  "walletNotConnectedDescription": "To view the profile you need to connect\nor enter a wallet address",
+  "sharedConnect": "Connect",
+  "sharedDisconnect": "Disconnect",
+  "connectWithWallet": "Connect with wallet",
+  "profileTitle": "Profile",
+  "skipForNow": "Skip for now",
+  "homeSearchPlaceholder": "0x..., tag or username",
+  "popular": "Popular",
+  "hotContent": "Hot content",
+  "live": "Live"
+}
